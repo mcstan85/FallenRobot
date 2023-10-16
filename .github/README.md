@@ -56,7 +56,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenRobot && cd FallenRobot`
+`git clone https://github.com/mcstan85/FallenRobot && cd FallenRobot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
